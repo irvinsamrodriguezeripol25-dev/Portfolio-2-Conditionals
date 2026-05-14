@@ -19,7 +19,7 @@ mood = input("Rate your mood today (1-10): ")
 try:
     mood = float(mood)  
 ```
-### (I use float so that it still accepts decimal numbers.)
+### (I used float so that it still accepts decimal numbers.)
 
 ### (I made this part handle to the negative numbers, zero, and numbers above 10)
 
