@@ -2,7 +2,7 @@
 
 #Personal Mood Checker
 
-### (I created this program ometimes do not notice how they feel throughout the day. 
+### (I created this program sometimes do not notice how they feel throughout the day. 
 ### This program helps to quickly identify their mood and receive simple feedback or 
 ### encouragement based on their mood rating.)
 ### (I named this checker Mood Sense and has a AI assitant called Moodi.)
